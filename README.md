@@ -1,2 +1,2 @@
-# POO1--Aticidade7
+# POO1--Atividade7
 Atividade de Programação orientada a objetos
